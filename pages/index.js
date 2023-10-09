@@ -19,7 +19,7 @@ export default function Home() {
         <h2>
         <a href="https://main.d3gy34fdsf7t91.amplifyapp.com/">Amplify</a>
         &nbsp; + &nbsp;
-        <a href="https://next13-5-4-4qrvvj7t9-globalstripe.vercel.app/">Vercel</a>
+        <a href="https://next13-5-4.vercel.app/">Vercel</a>
         </h2>
     
         <div className={styles.grid}>
