@@ -14,10 +14,14 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <h2>Deployed to both</h2>
 
+        <h2>
+        <a href="https://main.d3gy34fdsf7t91.amplifyapp.com/">Amplify</a>
+        &nbsp; + &nbsp;
+        <a href="https://next13-5-4-4qrvvj7t9-globalstripe.vercel.app/">Vercel</a>
+        </h2>
+    
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
